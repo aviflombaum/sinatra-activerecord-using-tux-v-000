@@ -16,7 +16,7 @@ Tux is an incredible Ruby gem that lets you access your database and perform all
 
 For example, in this repo there is a simple Sinatra app with a `User` model and a method called `say_name`. I want to test that the `say_name` method works. Wouldn't it be great if we could enter into some sort of playground environment where we can test out our code?
 
-In the past, we've used IRB for just that. Let's try dropping into IRB and testing out our code. 
+In the past, we've used IRB for just that. Let's try dropping into IRB and testing out our code. j
 
 Open up IRB in terminal and require the file `models/user.rb`:
 
